@@ -1,5 +1,5 @@
 <p>
- <img src="./arquivos/demonstração.png" alt="demonstração do projeto" width="100%" />
+ <img src="./demonstração.png" alt="demonstração do projeto" width="100%" />
 </p>
 
 🖥️ Projeto
@@ -18,8 +18,3 @@ Projeto feito em sala da Infinity School.
 Professor Luan Oliveira.
 
 Designer CarlUX.
-Infinity School
-joao
-Infinity School | Escola da Indústria Criativa‎
-Cursos profissionalizantes, ilustração digital, design, vídeo, cinema, games. Preços promocionais. Opções: Digital Design, Ilustração Digital, Motion Design, Games 3D.
-Infinity School | Escola da Indústria Criativa‎
